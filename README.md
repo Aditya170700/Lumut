@@ -46,3 +46,9 @@ ENGINE = InnoDB;`
 
 7. Run Server
    `php artisan serve`
+
+8. Login
+   `admin admin`
+   `author author`
+
+`*notes: if not use seeder, sql dump in root folder (lumut.sql)`
